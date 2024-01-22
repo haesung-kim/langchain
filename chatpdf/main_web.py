@@ -5,13 +5,35 @@ from langchain_community.vectorstores import Chroma
 from langchain.retrievers.multi_query import MultiQueryRetriever
 from langchain_community.llms import CTransformers
 from langchain.chains import RetrievalQA
+import streamlit as st
+import tempfile
+import os
+from typing import Any, Dict, List, Optional
+from langchain_core.embeddings import Embeddings
+from langchain_core.pydantic_v1 import BaseModel, Extra, Field
+import time
 
+# 제목
+st.title("ChatPDF")
+st.write("---")
 
-# 1. Loader
+# # 파일 업로드
+# uploaded_file = st.file_uploader("Choose a file")
+# st.write("---")
+
+# def pdf_to_document(uploaded_file):
+#     temp_dir = tempfile.TemporaryDirectory()
+#     temp_filepath = os.path.join(temp_dir.name, uploaded_file.name)
+#     with open(temp_filepath, "wb") as f:
+#         f.write(uploaded_file.getvalue())
+#     loader = PyPDFLoader(temp_filepath)
+#     pages = loader.load_and_split() # page split
+#     return pages
+
 loader = PyPDFLoader("./chatpdf/신데렐라_영어_연극_대본.pdf")
-pages = loader.load_and_split() # page split
+pages = loader.load_and_split()
 
-# 2. Split
+#Split
 text_splitter = RecursiveCharacterTextSplitter(
     # Set a really small chunk size, just to show.
     chunk_size=200,
@@ -21,12 +43,8 @@ text_splitter = RecursiveCharacterTextSplitter(
 )
 texts = text_splitter.split_documents(pages) # text chunk split
 
-# 3. Embedding
+# Embedding
 # https://github.com/langchain-ai/langchain/blob/021b0484a8d9e8cf0c84bc164fb904202b9e4736/libs/community/langchain_community/embeddings/huggingface.py#L69
-from typing import Any, Dict, List, Optional
-from langchain_core.embeddings import Embeddings
-from langchain_core.pydantic_v1 import BaseModel, Extra, Field
-
 class SentenceTransformerEmbeddings(BaseModel, Embeddings):
     client: Any  #: :meta private:
     model_name: str = ''
@@ -96,44 +114,47 @@ class SentenceTransformerEmbeddings(BaseModel, Embeddings):
     
 embeddings_model = SentenceTransformerEmbeddings()
 
-# 4. vectordb (load it into Chroma)
+# vectordb (load it into Chroma)
 vectordb = Chroma.from_documents(texts, embeddings_model)
 
-# 5. LLM
+# LLM
 llm = CTransformers(
     model = "./model/llama-2-7b-chat.ggmlv3.q8_0.bin",
     model_type = "llama",
+    config={'context_length': 2048,
+            'temperature': 0.01}
 )
 
-# 6. Question
-question = [
-    # 사실 확인 질문
-    "What time does heroine have to go home?",
-    "What did heroine lose at the ball?",
-    "What are the members of heroine's family?",
-    "Who did heroine marry?",
-    "How did the prince find heroine?",
-    "What did you make of the coachman when you went to the ball?",
-    # 요약
-    "Summarize heroine's mistreatment.",
-    # 인사이트
-    "What is heroine's lesson?",
-    "Why did heroine's stepmother treat her so badly?",
-    # 할루시네이션 
-    "Why did heroine's mother die?",
-]
+# Chain
+qa_chain = RetrievalQA.from_chain_type(llm, retriever = vectordb.as_retriever())
 
-# # 7. Searching docs in vectordb
-# retriever_from_llm = MultiQueryRetriever.from_llm(
-#     retriever=vectordb.as_retriever(), llm=llm
-# )
+# Question
+st.header("PDF에게 질문해보세요!!")
+question = st.text_input("질문을 입력하세요")
 
-# docs = retriever_from_llm.get_relevant_documents(query=question)
-# print(len(docs))
-# print(docs)
+if st.button("질문하기"):
+    with st.spinner('Wait for it...'):
+        start_time = time.time()
+        result = qa_chain({'query': question})
+        st.write(result["result"])
+        end_time = time.time()
+        execution_time = end_time - start_time
+        st.write("답변 시간:", execution_time, "초")
 
-# 8. langchain result
-for i in range(10):
-    qa_chain = RetrievalQA.from_chain_type(llm, retriever = vectordb.as_retriever())
-    result = qa_chain({'query': question[i]})
-    print('답변 결과', result)
+# 신데렐라 질문 리스트
+# What time does main character have to go home?
+# What did main character lose at the ball?
+# What are the members of main character's family?
+# Who did main character marry?
+# How did the prince find main character?
+# What did you make of the coachman when you went to the ball?
+# # 요약
+# "Summarize main character's mistreatment.
+# # 인사이트
+# What is main character's lesson?
+# Why did main character's stepmother treat her so badly?
+# # 할루시네이션 
+# Why did main character's mother die?
+# Tell us about the main character’s emotional changes.
+# How did the prince find the owner of the shoe?
+# Did the prince quickly find the main character?
