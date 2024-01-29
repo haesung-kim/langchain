@@ -1,0 +1,182 @@
+1
+PLIEGO DE PRESCRIPCIONES TÉCNICAS
+EXPEDIENTE ANTICIPADO DE GASTO: AB-SER2-24-003
+SUMINISTRO  DE  ESTACIONES  DE  TRABAJO  PARA  DIAGNÓSTICO  MEDIANTE  IMAGEN  DIGITAL  DE  ANATOMÍA
+PATOLÓGICA CON DESTINO A HOSPITALES DEL SERVICIO GALLEGO DE SALUD, SUSCEPTIBLE DE COFINANCIACIÓN
+POR LA UNIÓN EUROPEA EN UN 60% A TRAVÉS DEL PROGRAMA DE GALICIA FEDER 2021-2027, OBJETIVO POLÍTICO
+OP 1, OBJETIVO ESPECÍFICO OE. 1.2 Y ACTUACIÓN 1.2.02
+Los productos presentados a este procedimiento serán totalmente nuevos y no podrán tener ningún componente
+usado o reutilizado. Deberán cumplir la normativa española y comunitaria vigente que sea de aplicación, siendo
+asimismo de total responsabilidad del proveedor la obtención de los certificados de homologación o declaración de
+conformidad CE correspondientes.
+Se ajustarán a la directiva 2001/95/CE relativa a la seguridad general de los productos (R.D. 1801/2003, de 26 de
+diciembre, sobre seguridad general de los productos B.O.E. de 10 de enero de 2004).
+Cuando los bienes hayan sido fabricados de conformidad a normas (ISO, EN y nacionales o equivalentes, así como
+Reglamentos, Directivas y normas de facto), estas se detallarán en la oferta. Asimismo, se indicará si estos bienes
+están certificados con estas normas por un organismo de evaluación de conformidad acreditado por ENAC u
+organismo de acreditación equivalente, o en su defecto, por empresa independiente.
+Deberán cumplir la legislación vigente relativa a productos sanitarios (Real Decreto 1591/2009 de 16 de Octubre) que
+les sea de aplicación llevando el marcado CE (en base a la directiva 2007/47/CE) en donde corresponda, acompañado
+del número de identificación del organismo notificado (con excepción en los productos de Clase I). Se incluirán
+documentos acreditativos del cumplimiento de los requisitos establecidos en la legislación vigente.
+En caso de que el equipo genere algún tipo de información clínica (imagen médica, señales fisiológicas u otros datos
+clínicos) susceptible de ser incorporada a los sistemas de información del Servizo Galego de Saúde, deberán
+cumplirse  los  requisitos  de  conectividad y  criterios  técnicos  que  sean  de  aplicación según lo  recogido  en  el
+documento de especificaciones técnicas accesible desde la página web (www.sergas.es) del Servizo Galego de Saúde,
+en su versión vigente a fecha de publicación en DOG de este pliego.
+Deberán describir todos los artículos o accesorios incluidos en su oferta, siguiendo la relación de características que
+figuran en este pliego. Los datos aportados deberán corresponder a equipos o accesorios incluidos en la oferta. Se
+presentará como información adicional la hoja o catálogo de productos identificando el equipo ofertado para su
+máxima descripción técnica.
+Todos los datos relativos a componentes opcionales, posibles ampliaciones, y otros elementos no incluidos deberán
+identificarse claramente como elementos no incluidos en la oferta y en caso contrario, el órgano de contratación
+podrá exigir su entrega como parte integrante de la oferta.
+Página 1/6
+En todos los casos se incluirán todos aquellos elementos y accesorios que puedan ser necesarios para un correcto
+funcionamiento  de  los  equipos.  Se  realizará la  instalación  cumpliendo  con  las  prescripciones  del Reglamento
+Electrotécnico de Baja Tensión aprobado por Real Decreto 842/2002 de 2 de agosto y considerando las medidas de
+bioseguridad que marque el Servicio de Medicina Preventiva correspondiente.
+Características Técnicas del Equipamiento
+En este apartado se detallan las características técnicas mínimas de los equipos objeto del procedimiento de
+adjudicación. Al presentar la oferta el licitador debe ajustarse a la terminología utilizada en este apartado.
+Se especifican los requisitos obligatorios de los equipos licitados.  Las propuestas que ofrezcan características
+inferiores no serán tomadas en consideración en el presente procedimiento de adjudicación. 
+Los requisitos mínimos detallados en este apartado no pretenden ser una relación exhaustiva de las características
+técnicas de los equipos. El pliego recoge las características relevantes de los equipos objeto de suministro. 
+Las ofertas de los licitadores deberán proporcionar la especificación técnica completa de los equipos, ya que cada
+componente debe consistir en una solución integral que incluya los elementos necesarios para el cumplimiento de
+todos los condicionantes, requisitos y especificaciones técnicas descritos a lo largo del presente Pliego.
+Con el objeto de garantizar el correcto funcionamiento de la solución en su conjunto, el Servicio Gallego de Salud (Sergas)
+se reserva el derecho a solicitar al licitador una batería de pruebas del equipamiento ofertado, y una propuesta de
+documentación asociada que contempla el detalle de las mismas, resultados obtenidos, etc.
+Página 2/6
+COMPONENTE   1
+Estaciones de trabajo
+Las estaciones de trabajo se conectarán a los monitores de diagnóstico. Incluirán todas las licencias de software
+necesarias para su funcionamiento y calibración. 
+Se conectarán al dominio y a la red de datos del hospital y en concreto, al sistema de almacenamiento de imágen
+digital (PACS)
+Las características técnicas mínimas requeridas para este Componente se describen a continuación:
+Estación de trabajo
+Procesador
+Procesadores x86/64 bits. 
+El procesador (o conjunto de procesadores) junto con el resto de características técnicas descritas en 
+los siguientes apartados debe tener una valoración global igual o superior a 1500 en el programa para 
+el cálculo de rendimiento (Benchmark) BAPCo SYSmark 20.
+La generación de los procesadores será la más nueva existente en el mercado en el momento de 
+realizar el pedido del equipamiento
+El procesador deberá contar con un mínimo de 8 núcleos. 
+El procesador se situará entre las gamas superiores de los fabricantes: Intel Core I7 , AMD Ryzen 7 o 
+superiores.
+Memoria RAM
+Memoria RAM mínimo 32GB en DIMMS con tecnología DDR4 o superior. 
+Se deberá detallar la configuración de memoria (en cuanto a distribución, bancos, DIMMS). La 
+configuración a nivel de RAM siempre deberá permitir la ampliación al doble de capacidad entregada 
+sin necesidad de sustituir los módulos existentes, siempre y cuando no se oferte la configuración 
+máxima soportada por el equipo.
+Disco duro
+Disco SSD de 512 GB con protocolo NVMe
+Disco óptico
+DVD +/-RW 8x
+Tarjeta Gráfica
+Memoria: 6 GB
+Resolución: 4K
+Peak Single Precision FP32 Performance: 1.800 gflops
+Soporte para al menos 2 pantallas 4K simultáneamente
+Ancho de banda de memoria: 80 GB/s
+Soporte 3D: Open GL 4.5 y DirectX 12.0
+Periféricos
+Teclado USB con lector de tarjetas
+Ratón Óptico
+webcam y altavoces
+Lector de  tarjetas chip criptográficas (tipo smart card) con el estándar ISO 7816 o equivalente. (Se 
+admite externo USB o integrado en teclado).
+Cables y accesorios para conexión de la Tarjeta Gráfica a dos monitores
+Micrófono de mano compatible con software de reconocimiento de voz INVOX (Vócali)
+Conectividad
+       Tarjeta de Red Ethernet
+       •  Ethernet 10/100/1000 con conector RJ45.
+       •  Se admite integrada en placa base.
+Página 3/6
+Estación de trabajo
+       Conectividad Inalámbrica
+       • Wifi según Estándar IEEE 802.11 b/g/n/ac.
+       •  Bluetooth 5.0
+Puertos y 
+Entradas/Salidas de 
+Audio y Video
+Conexion puerto RJ45 1Gbps/100Mbps
+Al menos 4 puertos USB2.
+Al menos 4 puertos USB3.
+Al menos un puerto serie.
+Al menos dos conectores USB de cada tipo estarán libres una vez configurados todos los periféricos 
+suministrados.
+Salidas de Video: Display Port  y DVI, de cara a soportar todos los estándares de video.
+Salidas de audio y entrada de micrófono, para integración con sistemas de videoconferencia.
+Licencias software
+Licencia de sistema operativo Windows 11 y de las aplicaciones que sean necesarias para el 
+funcionamiento de las estaciones.
+Gestión Remota
+Deberá permitir su gestión remota independientemente del Sistema Operativo y de su estado de 
+energía (encendido, apagado, hibernado, suspendido, etc.), mediante interfaz gráfica (KVM) remota y 
+sin necesidad de agentes software en el puesto cliente, aunque se encuentre en un estado averiado, 
+sin disco duro o sin sistema operativo. Es necesario que la funcionalidad sea integrable con la 
+herramienta de gestión utilizada por el SERGAS, que actualmente es Symantec Client Management 
+Suite – SCMS (anteriormente conocida como Altiris).
+El  precio  del  componente  ofertado  incluirá  el  suministro  (según  las  condiciones  descritas  en  el  apartado
+correspondiente del presente pliego, que incluye el ensamblaje de cualquier tipo de elemento individual), el montaje
+(según las condiciones descritas en el apartado correspondiente del presente pliego) y el mantenimiento, durante los
+años de garantía ofertados.
+Página 4/6
+COMPONENTE   2
+Monitor de diagnóstico
+Las características técnicas mínimas requeridas para este Componente se describen a continuación:
+Tipo
+Monitor de grado médico
+Monitor Grado Médico Mínimo 30 Pulgadas 16:9. 
+Resolución 8MP
+Resolución aproximada 3840 × 2160 o superior
+Ángulo de visión mínimo: 175ºx175º
+Mínimo 60 Hz (4K UHD).
+Certificación CE con cumplimiento de Directivas europeas MDD de dispositivos médicos
+Calibración DICOM
+Calibración de color específica para Anatomía Patológica
+Tecnología IPS.
+Orientación horizontal y vertical.
+Brillo mínimo: 350 cd/m².
+Ratio contraste: 1300:1
+DCI-P3 98% (CIE1976) o equivalente/superior.
+Debe disponer de puertos: DisplayPort 1.2 y USB 2.0 o superior.
+Sensor de luminancia automática.
+Sistema antirreflejo y Protector de superficie
+Incluir todos los cables necesarios para el funcionamiento simultáneo con dos 
+monitores
+El  precio  del  componente  ofertado  incluirá  el  suministro  (según  las  condiciones  descritas  en  el  apartado
+correspondiente del presente pliego, que incluye el ensamblaje de cualquier tipo de elemento individual), el montaje
+(según las condiciones descritas en el apartado correspondiente del presente pliego) y el mantenimiento, durante los
+años de garantía ofertados.
+Página 5/6
+COMPONENTE   3
+Monitor estándar
+Las características técnicas mínimas requeridas para este Componente se describen a continuación:
+Tipo
+Monitor convencional
+29 pulgadas 16:9
+Resolución mínima: Full HD
+Tecnología color antirreflejo IPS
+Orientación horizontal y vertical.
+Brillo mínimo: 300Cd/m2
+Ángulo de visión mínimo: 170ºx160º
+Tiempo de respuesta mínimo: 5ms
+Frecuencia de refresco mínima: 60Hz
+El  precio  del  componente  ofertado  incluirá  el  suministro  (según  las  condiciones  descritas  en  el  apartado
+correspondiente del presente pliego, que incluye el ensamblaje de cualquier tipo de elemento individual), el montaje
+(según las condiciones descritas en el apartado correspondiente del presente pliego) y el mantenimiento, durante los
+años de garantía ofertados.
+Santiago de Compostela, fecha de la firma electrónica
+El Subdirector General de Sistemas y Tecnologías de la Información
+Benigno Rosón Calvo
+La Secretaria General Técnica
+Natalia Lobato Mosquera
+Página 6/6
+
