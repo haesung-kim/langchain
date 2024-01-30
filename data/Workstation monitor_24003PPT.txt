@@ -1,0 +1,310 @@
+/----------------------------------------------------- Page 1 Start -----------------------------------------------------\
+-----------------------------------------------------  Raw Text  -----------------------------------------------------
+1
+PLIEGO DE PRESCRIPCIONES TÉCNICAS
+EXPEDIENTE ANTICIPADO DE GASTO: AB-SER2-24-003
+SUMINISTRO DE ESTACIONES DE TRABAJO PARA DIAGNÓSTICO MEDIANTE IMAGEN DIGITAL DE ANATOMÍA
+PATOLÓGICA CON DESTINO A HOSPITALES DEL SERVICIO GALLEGO DE SALUD, SUSCEPTIBLE DE COFINANCIACIÓN
+POR LA UNIÓN EUROPEA EN UN 60% A TRAVÉS DEL PROGRAMA DE GALICIA FEDER 2021-2027, OBJETIVO POLÍTICO
+OP 1, OBJETIVO ESPECÍFICO OE. 1.2 Y ACTUACIÓN 1.2.02
+Los productos presentados a este procedimiento serán totalmente nuevos y no podrán tener ningún componente
+usado o reutilizado. Deberán cumplir la normativa española y comunitaria vigente que sea de aplicación, siendo
+asimismo de total responsabilidad del proveedor la obtención de los certificados de homologación o declaración de
+conformidad CE correspondientes.
+Se ajustarán a la directiva 2001/95/CE relativa a la seguridad general de los productos (R.D. 1801/2003, de 26 de
+diciembre, sobre seguridad general de los productos B.O.E. de 10 de enero de 2004).
+Cuando los bienes hayan sido fabricados de conformidad a normas (ISO, EN y nacionales o equivalentes, así como
+Reglamentos, Directivas y normas de facto), estas se detallarán en la oferta. Asimismo, se indicará si estos bienes
+están certificados con estas normas por un organismo de evaluación de conformidad acreditado por ENAC u
+organismo de acreditación equivalente, o en su defecto, por empresa independiente.
+Deberán cumplir la legislación vigente relativa a productos sanitarios (Real Decreto 1591/2009 de 16 de Octubre) que
+les sea de aplicación llevando el marcado CE (en base a la directiva 2007/47/CE) en donde corresponda, acompañado
+del número de identificación del organismo notificado (con excepción en los productos de Clase I). Se incluirán
+documentos acreditativos del cumplimiento de los requisitos establecidos en la legislación vigente.
+En caso de que el equipo genere algún tipo de información clínica (imagen médica, señales fisiológicas u otros datos
+clínicos) susceptible de ser incorporada a los sistemas de información del Servizo Galego de Saúde, deberán
+cumplirse los requisitos de conectividad y criterios técnicos que sean de aplicación según lo recogido en el
+documento de especificaciones técnicas accesible desde la página web (www.sergas.es) del Servizo Galego de Saúde,
+en su versión vigente a fecha de publicación en DOG de este pliego.
+Deberán describir todos los artículos o accesorios incluidos en su oferta, siguiendo la relación de características que
+figuran en este pliego. Los datos aportados deberán corresponder a equipos o accesorios incluidos en la oferta. Se
+presentará como información adicional la hoja o catálogo de productos identificando el equipo ofertado para su
+máxima descripción técnica.
+Todos los datos relativos a componentes opcionales, posibles ampliaciones, y otros elementos no incluidos deberán
+identificarse claramente como elementos no incluidos en la oferta y en caso contrario, el órgano de contratación
+podrá exigir su entrega como parte integrante de la oferta.
+Página 1/6
+-----------------------------------------------------English Text-----------------------------------------------------
+1 TECHNICAL SPECIFICATIONS DOCUMENT ADVANCE EXPENSE FILE: AB-SER2-24-003 SUPPLY OF WORKSTATIONS FOR DIAGNOSTIC THROUGH DIGITAL IMAGING OF PATHOLOGICAL ANATOMY FOR HOSPITALS OF THE GALICIAN HEALTH SERVICE, ELIGIBLE FOR CO-FINANCING BY THE EUROPEAN UNION AT 60% THROUGH THE GALICIA FEDER 2021-2027 PROGRAM, POLITICAL OBJECTIVE OP 1, SPECIFIC OBJECTIVE OE 1.2 AND ACTION 1.2.02
+The products submitted to this procedure must be completely new and cannot have any used or reused components. They must comply with the current Spanish and European regulations that are applicable, and it is also the full responsibility of the supplier to obtain the corresponding homologation certificates or CE conformity declarations. They will comply with Directive 2001/95/EC on general product safety (Royal Decree 1801/2003, of December 26, on general product safety, Official State Gazette of January 10, 2004).
+When the goods have been manufactured in accordance with standards (ISO, EN, national or equivalent, as well as Regulations, Directives, and de facto standards), these shall be detailed in the offer. Likewise, it shall be indicated whether these goods are certified with these standards by an evaluation conformity assessment body accredited by ENAC or an equivalent accreditation body, or failing that, by an independent company.
+They must comply with the current legislation on medical devices (Royal Decree 1591/2009 of October 16) that is applicable to them, bearing the CE marking (based on Directive 2007/47/EC) where appropriate, accompanied by the identification number of the notified body (with the exception of Class I products). Documentary evidence of compliance with the requirements established by current legislation shall be included.
+In the event that the equipment generates any type of clinical information (medical image, physiological signals, or other clinical data) that can be incorporated into the information systems of the Galician Health Service, the connectivity requirements and technical criteria applicable shall be met as stated in the technical specifications document accessible from the website (www.sergas.es) of the Galician Health Service, in its current version as of the publication date in the Official Gazette of Galicia of this document.
+All items or accessories included in the offer shall be described, following the list of characteristics specified in this document. The provided data must correspond to the equipment or accessories included in the offer. Additional information, such as a data sheet or product catalog, shall be provided to identify the offered equipment for maximum technical description.
+All data regarding optional components, possible expansions, and other non-included elements must be clearly identified as elements not included in the offer, and otherwise, the contracting authority may require their delivery as an integral part of the offer. Page 1/6
+
+----------------------------------------------------- Korean Text-----------------------------------------------------
+기술 규정 사전 지출 지침서: AB-SER2-24-003 디지털 병리학 영상을 통한 진단을 위한 작업장 공급, 유럽 연합의 60%로 공동 출자 가능한 갈리시아 FEDER 2021-2027 프로그램을 통해 갈리시아 보건 서비스 병원에 제공될 예정입니다. 이 절차에 제출되는 제품은 완전히 새로운 것이어야 하며 사용 또는 재사용된 구성 요소가 없어야 합니다. 이 제품들은 스페인 및 유럽 연합의 적용되는 현행 법규를 준수해야 하며, 해당 인증서나 CE 적합성 선언서를 획득하는 것은 공급자의 전적인 책임입니다. 이 제품들은 제품의 일반적인 안전에 관한 2001/95/EC 지침 (2004년 1월 10일 BOE에 게시된 2003년 12월 26일 RD 1801/2003)에 준수해야 합니다. 제품이 (ISO, EN 및 국가 또는 동등한 기준, 규정, 지침 및 사실상의 기준)에 따라 제조된 경우, 이러한 기준은 제안에 상세히 기재되어야 합니다. 또한, 이러한 제품이 ENAC에 의해 인증된 이러한 기준에 따라 인증되었는지 또는 동등한 인증 기관에 의해 인증되었는지, 또는 그렇지 않은 경우 독립 기업에 의해 인증되었는지를 나타내야 합니다. 이 제품들은 적용되는 의료기기에 관한 현행 법규 (2009년 10월 16일 Real Decreto 1591/2009)를 준수해야 하며, 해당 범위에 따라 CE 표시를 하고, 통지된 기관의 식별 번호와 함께 제공되어야 합니다 (단, 1급 제품은 예외입니다). 현행 법규에서 요구하는 요건을 충족하는 것을 증명하는 문서가 첨부되어야 합니다. 장비가 (의료 영상, 생리 신호 또는 기타 임상 데이터와 같은) 어떠한 임상 정보도 생성하는 경우, 서비소 갈레고 데 사우데의 정보 시스템에 통합될 수 있는 연결성 및 기술 기준 요건을 이 문서에 게시된 기술 사양 문서에서 확인된 대로 준수해야 합니다. 제안에 포함된 장비 또는 액세서리의 모든 항목을 이 규정에 기재된 특성 목록에 따라 설명해야 합니다. 제공된 데이터는 제안에 포함된 장비나 액세서리와 일치해야 합니다. 최대 기술적 설명을 위해 제품 시트 또는 카탈로그를 추가로 제공해야 합니다. 선택적 구성 요소, 가능한 확장 및 포함되지 않은 기타 요소에 대한 모든 데이터는 제안의 일부로 포함되지 않았음을 명확히 표시해야 하며, 그렇지 않은 경우 계약 기관은 제안의 일부로서 그들의 제공을 요구할 수 있습니다. 1/6 페이지
+
+--------------------------------------------------- Summarization ---------------------------------------------------
+
+--------------------------------------------------- Summarization ---------------------------------------------------
+
+\------------------------------------------------------ Page 1 End ------------------------------------------------------/
+
+/----------------------------------------------------- Page 2 Start -----------------------------------------------------\
+-----------------------------------------------------  Raw Text  -----------------------------------------------------
+En todos los casos se incluirán todos aquellos elementos y accesorios que puedan ser necesarios para un correcto
+funcionamiento de los equipos. Se realizará la instalación cumpliendo con las prescripciones del Reglamento
+Electrotécnico de Baja Tensión aprobado por Real Decreto 842/2002 de 2 de agosto y considerando las medidas de
+bioseguridad que marque el Servicio de Medicina Preventiva correspondiente.
+Características Técnicas del Equipamiento
+En este apartado se detallan las características técnicas mínimas de los equipos objeto del procedimiento de
+adjudicación. Al presentar la oferta el licitador debe ajustarse a la terminología utilizada en este apartado.
+Se especifican los requisitos obligatorios de los equipos licitados. Las propuestas que ofrezcan características
+inferiores no serán tomadas en consideración en el presente procedimiento de adjudicación.
+Los requisitos mínimos detallados en este apartado no pretenden ser una relación exhaustiva de las características
+técnicas de los equipos. El pliego recoge las características relevantes de los equipos objeto de suministro.
+Las ofertas de los licitadores deberán proporcionar la especificación técnica completa de los equipos, ya que cada
+componente debe consistir en una solución integral que incluya los elementos necesarios para el cumplimiento de
+todos los condicionantes, requisitos y especificaciones técnicas descritos a lo largo del presente Pliego.
+Con el objeto de garantizar el correcto funcionamiento de la solución en su conjunto, el Servicio Gallego de Salud (Sergas)
+se reserva el derecho a solicitar al licitador una batería de pruebas del equipamiento ofertado, y una propuesta de
+documentación asociada que contempla el detalle de las mismas, resultados obtenidos, etc.
+Página 2/6
+-----------------------------------------------------English Text-----------------------------------------------------
+In all cases, all necessary elements and accessories that may be required for the proper functioning of the equipment will be included. The installation will comply with the provisions of the Low Voltage Electrotechnical Regulations approved by Royal Decree 842/2002 of August 2, and considering the biosecurity measures established by the corresponding Preventive Medicine Service. Technical Specifications of the Equipment This section details the minimum technical specifications of the equipment subject to the bidding process. When submitting an offer, the bidder must adhere to the terminology used in this section. The mandatory requirements of the equipment being tendered are specified. Proposals offering lower specifications will not be considered in this bidding process. The minimum requirements detailed in this section do not intend to be an exhaustive list of the technical characteristics of the equipment. The specifications in the tender document include the relevant characteristics of the equipment to be supplied. Bidders' offers must provide a complete technical specification of the equipment, as each component must consist of an integrated solution that includes the necessary elements to meet all the conditions, requirements, and technical specifications described throughout this document. In order to guarantee the proper functioning of the solution as a whole, the Galician Health Service (Sergas) reserves the right to request from the bidder a battery of tests for the offered equipment, as well as a proposal for associated documentation that includes the details of the tests, obtained results, etc. Page 2/6
+
+----------------------------------------------------- Korean Text-----------------------------------------------------
+모든 경우에는 장비의 올바른 작동을 위해 필요한 모든 요소와 액세서리가 포함됩니다. 설치는 2002년 8월 2일에 승인된 저압 전기 규정에 따라 이루어지며, 해당 예방의학 서비스에서 지정한 생물 안전 조치를 고려합니다. 장비 기술적 특성 이 섹션에서는 입찰 절차의 대상인 장비의 최소 기술적 특성을 상세히 설명합니다. 입찰자는 이 섹션에서 사용된 용어에 맞추어 제안을 제출해야 합니다. 입찰된 장비의 필수 요구 사항이 명시됩니다. 하위 특성을 제공하는 제안은 본 입찰 절차에서 고려되지 않을 것입니다. 이 섹션에 상세히 기술된 최소 요구 사항은 장비의 기술적 특성의 완전한 목록을 제공하기 위한 것이 아닙니다. 입찰자의 제안은 각 구성 요소가 본 플랜에 기술된 모든 제약 조건, 요구 사항 및 기술적 명세를 충족하기 위해 필요한 요소를 포함하는 통합 솔루션이어야 합니다. 솔루션의 올바른 작동을 보장하기 위해 갈리시아 건강 서비스(Sergas)는 입찰자에게 제안된 장비의 일련의 테스트 및 관련 문서 제안을 요청할 권리를 보유합니다. 이 문서에는 테스트의 세부 정보, 얻은 결과 등이 포함됩니다. 2/6 페이지
+
+--------------------------------------------------- Summarization ---------------------------------------------------
+
+--------------------------------------------------- Summarization ---------------------------------------------------
+
+\------------------------------------------------------ Page 2 End ------------------------------------------------------/
+
+/----------------------------------------------------- Page 3 Start -----------------------------------------------------\
+-----------------------------------------------------  Raw Text  -----------------------------------------------------
+COMPONENTE 1
+Estaciones de trabajo
+Las estaciones de trabajo se conectarán a los monitores de diagnóstico. Incluirán todas las licencias de software
+necesarias para su funcionamiento y calibración.
+Se conectarán al dominio y a la red de datos del hospital y en concreto, al sistema de almacenamiento de imágen
+digital (PACS)
+Las características técnicas mínimas requeridas para este Componente se describen a continuación:
+Estación de trabajo
+Procesadores x86/64 bits.
+El procesador (o conjunto de procesadores) junto con el resto de características técnicas descritas en
+los siguientes apartados debe tener una valoración global igual o superior a 1500 en el programa para
+el cálculo de rendimiento (Benchmark) BAPCo SYSmark 20.
+Procesador La generación de los procesadores será la más nueva existente en el mercado en el momento de
+realizar el pedido del equipamiento
+El procesador deberá contar con un mínimo de 8 núcleos.
+El procesador se situará entre las gamas superiores de los fabricantes: Intel Core I7 , AMD Ryzen 7 o
+superiores.
+Memoria RAM mínimo 32GB en DIMMS con tecnología DDR4 o superior.
+Se deberá detallar la configuración de memoria (en cuanto a distribución, bancos, DIMMS). La
+Memoria RAM configuración a nivel de RAM siempre deberá permitir la ampliación al doble de capacidad entregada
+sin necesidad de sustituir los módulos existentes, siempre y cuando no se oferte la configuración
+máxima soportada por el equipo.
+Disco duro Disco SSD de 512 GB con protocolo NVMe
+Disco óptico DVD +/-RW 8x
+Memoria: 6 GB
+Resolución: 4K
+Peak Single Precision FP32 Performance: 1.800 gflops
+Tarjeta Gráfica
+Soporte para al menos 2 pantallas 4K simultáneamente
+Ancho de banda de memoria: 80 GB/s
+Soporte 3D: Open GL 4.5 y DirectX 12.0
+Teclado USB con lector de tarjetas
+Ratón Óptico
+webcam y altavoces
+Periféricos Lector de tarjetas chip criptográficas (tipo smart card) con el estándar ISO 7816 o equivalente. (Se
+admite externo USB o integrado en teclado).
+Cables y accesorios para conexión de la Tarjeta Gráfica a dos monitores
+Micrófono de mano compatible con software de reconocimiento de voz INVOX (Vócali)
+Conectividad Tarjeta de Red Ethernet
+• Ethernet 10/100/1000 con conector RJ45.
+• Se admite integrada en placa base.
+Página 3/6
+-----------------------------------------------------English Text-----------------------------------------------------
+COMPONENT 1 Workstations Workstations will be connected to diagnostic monitors. They will include all necessary software licenses for operation and calibration. They will be connected to the hospital's domain and data network, specifically to the Picture Archiving and Communication System (PACS). The minimum technical requirements for this Component are described below: Workstation Processors x86/64 bits. The processor (or set of processors) along with the other technical characteristics described in the following sections must have an overall score equal to or greater than 1500 in the BAPCo SYSmark 20 benchmark program. Processor The processors will be the newest generation available on the market at the time of equipment ordering. The processor must have a minimum of 8 cores. The processor will be from the higher ranges of manufacturers: Intel Core i7, AMD Ryzen 7 or higher. RAM memory minimum 32GB in DIMMS with DDR4 or higher technology. The memory configuration (in terms of distribution, banks, DIMMS) must be specified. The RAM memory configuration must always allow for expansion to double the delivered capacity without replacing the existing modules, as long as the maximum supported configuration by the equipment is not offered. Hard drive 512GB SSD with NVMe protocol Optical drive DVD +/-RW 8x Memory: 6GB Resolution: 4K Peak Single Precision FP32 Performance: 1,800 gflops Graphics Card Support for at least 2 4K displays simultaneously Memory bandwidth: 80 GB/s 3D support: Open GL 4.5 and DirectX 12.0 USB keyboard with card reader Optical mouse webcam and speakers Peripherals Smart card chip reader (ISO 7816 standard or equivalent) (USB external or integrated in keyboard is accepted) Cables and accessories for connecting the Graphics Card to two monitors Handheld microphone compatible with voice recognition software INVOX (Vócali) Connectivity Ethernet Network Card • Ethernet 10/100/1000 with RJ45 connector. • Integrated on the motherboard is accepted. Page 3/6
+
+----------------------------------------------------- Korean Text-----------------------------------------------------
+구성 요소 1 작업 스테이션 작업 스테이션은 진단 모니터에 연결됩니다. 작동 및 보정에 필요한 모든 소프트웨어 라이선스가 포함됩니다. 병원의 도메인 및 데이터 네트워크에 연결되며 특히 디지털 이미지 저장 시스템 (PACS)에 연결됩니다. 이 구성 요소에 대한 최소 기술 요구 사항은 다음과 같습니다. 작업 스테이션 x86/64 비트 프로세서. 프로세서 (또는 프로세서 집합)와 다음 섹션에서 설명하는 기타 기술적 특징의 조합은 BAPCo SYSmark 20의 성능 측정 프로그램에서 전체 평가가 1500 이상이어야 합니다. 프로세서 프로세서 세대는 장비 주문 시점에 시장에서 가장 최신인 세대여야 합니다. 프로세서는 최소 8개의 코어를 갖추어야 합니다. 프로세서는 Intel Core I7, AMD Ryzen 7 또는 그 이상의 상위 제품군에 속해야 합니다. 최소 32GB의 DDR4 이상 기술을 사용한 DIMM으로 구성된 RAM. 메모리 구성 (분배, 뱅크, DIMM 등)을 상세히 설명해야 합니다. RAM 구성은 기존 모듈을 교체하지 않고도 제공된 용량의 2배로 확장할 수 있어야 합니다. 단, 장비가 지원하는 최대 구성을 제공하지 않는 한입니다. 512GB의 NVMe 프로토콜을 사용한 SSD 디스크  DVD +/-RW 8x 광학 드라이브 메모리: 6GB 해상도: 4K Peak Single Precision FP32 성능: 1,800 gflops 그래픽 카드 동시에 최소 2개의 4K 모니터 지원 메모리 대역폭: 80GB/s 3D 지원: Open GL 4.5 및 DirectX 12.0 USB 카드 리더기가 있는 키보드 광학 마우스 웹캠 및 스피커 주변 기기 ISO 7816 또는 동등한 표준을 준수하는 암호 칩 카드 리더기 (외부 USB 또는 키보드에 통합 가능) 그래픽 카드를 두 개의 모니터에 연결하기 위한 케이블 및 액세서리 음성 인식 소프트웨어와 호환되는 손마이크 INVOX (Vócali) 연결성 이더넷 네트워크 카드 • RJ45 커넥터와 이더넷 10/100/1000. • 메인 보드에 통합 가능.
+
+--------------------------------------------------- Summarization ---------------------------------------------------
+
+--------------------------------------------------- Summarization ---------------------------------------------------
+
+-----------------------------------------------------  Raw Table  -----------------------------------------------------
+Table 3-1
+                    0
+         COMPONENTE 1
+Estaciones de trabajo
+\------------------------------------------------------ Page 3 End ------------------------------------------------------/
+
+/----------------------------------------------------- Page 4 Start -----------------------------------------------------\
+-----------------------------------------------------  Raw Text  -----------------------------------------------------
+Estación de trabajo
+Conectividad Inalámbrica
+• Wifi según Estándar IEEE 802.11 b/g/n/ac.
+• Bluetooth 5.0
+Conexion puerto RJ45 1Gbps/100Mbps
+Al menos 4 puertos USB2.
+Al menos 4 puertos USB3.
+Puertos y
+Al menos un puerto serie.
+Entradas/Salidas de
+Audio y Video Al menos dos conectores USB de cada tipo estarán libres una vez configurados todos los periféricos
+suministrados.
+Salidas de Video: Display Port y DVI, de cara a soportar todos los estándares de video.
+Salidas de audio y entrada de micrófono, para integración con sistemas de videoconferencia.
+Licencia de sistema operativo Windows 11 y de las aplicaciones que sean necesarias para el
+Licencias software
+funcionamiento de las estaciones.
+Deberá permitir su gestión remota independientemente del Sistema Operativo y de su estado de
+energía (encendido, apagado, hibernado, suspendido, etc.), mediante interfaz gráfica (KVM) remota y
+sin necesidad de agentes software en el puesto cliente, aunque se encuentre en un estado averiado,
+Gestión Remota
+sin disco duro o sin sistema operativo. Es necesario que la funcionalidad sea integrable con la
+herramienta de gestión utilizada por el SERGAS, que actualmente es Symantec Client Management
+Suite – SCMS (anteriormente conocida como Altiris).
+El precio del componente ofertado incluirá el suministro (según las condiciones descritas en el apartado
+correspondiente del presente pliego, que incluye el ensamblaje de cualquier tipo de elemento individual), el montaje
+(según las condiciones descritas en el apartado correspondiente del presente pliego) y el mantenimiento, durante los
+años de garantía ofertados.
+Página 4/6
+-----------------------------------------------------English Text-----------------------------------------------------
+Workstation Wireless Connectivity • Wifi according to IEEE 802.11 b/g/n/ac standard. • Bluetooth 5.0 RJ45 port connection 1Gbps/100Mbps At least 4 USB2 ports. At least 4 USB3 ports. Ports and at least one serial port. Audio and Video Inputs/Outputs At least two USB connectors of each type will be available once all supplied peripherals are configured. Video Outputs: Display Port and DVI, in order to support all video standards. Audio outputs and microphone input, for integration with video conferencing systems. Windows 11 operating system license and necessary applications for software licenses operation of the workstations. It should allow remote management regardless of the operating system and its power state (on, off, hibernated, suspended, etc.), through a remote graphical interface (KVM) without the need for software agents on the client workstation, even if it is in a faulty state, Remote Management without a hard drive or operating system. It is necessary for the functionality to be integrable with the management tool used by SERGAS, which is currently Symantec Client Management Suite - SCMS (formerly known as Altiris). The price of the offered component will include supply (according to the conditions described in the corresponding section of this specification, which includes the assembly of any type of individual element), assembly (according to the conditions described in the corresponding section of this specification), and maintenance during the offered warranty years. Page 4/6
+
+----------------------------------------------------- Korean Text-----------------------------------------------------
+작업 스테이션 무선 연결 • IEEE 802.11 b/g/n/ac 표준의 Wifi. • Bluetooth 5.0 연결 RJ45 포트 1Gbps/100Mbps 적어도 4개의 USB2 포트. 적어도 4개의 USB3 포트. 포트 및 적어도 하나의 시리얼 포트. 오디오 및 비디오 입력/출력 적어도 모든 제공된 주변 기기가 구성된 후에도 각 유형의 USB 포트가 적어도 두 개가 비어 있어야 함. 비디오 출력: Display Port 및 DVI, 모든 비디오 표준을 지원하기 위해. 오디오 출력 및 마이크 입력, 비디오 회의 시스템과 통합하기 위해. Windows 11 운영 체제 및 역할에 필요한 응용 프로그램의 라이선스. 원격 관리가 가능해야 하며, 운영 체제 및 전원 상태 (켜짐, 꺼짐, 대기, 중지 등)와 상관없이 원격 그래픽 인터페이스 (KVM)를 통해 소프트웨어 에이전트 없이 고장 상태인 클라이언트에 대한 관리가 가능해야 함. 하드 디스크나 운영 체제 없이도 원격 관리가 가능해야 함. 기능은 현재 SERGAS에서 사용하는 관리 도구인 Symantec Client Management Suite - SCMS (이전에는 Altiris로 알려짐)와 통합 가능해야 함. 제안된 구성 요소의 가격에는 공급 (본 문서의 해당 섹션에서 설명된 조건에 따라 개별 요소의 조립 포함), 조립 (본 문서의 해당 섹션에서 설명된 조건에 따라) 및 보증 기간 동안의 유지 보수가 포함됨. 페이지 4/6
+
+--------------------------------------------------- Summarization ---------------------------------------------------
+
+--------------------------------------------------- Summarization ---------------------------------------------------
+
+\------------------------------------------------------ Page 4 End ------------------------------------------------------/
+
+/----------------------------------------------------- Page 5 Start -----------------------------------------------------\
+-----------------------------------------------------  Raw Text  -----------------------------------------------------
+COMPONENTE 2
+Monitor de diagnóstico
+Las características técnicas mínimas requeridas para este Componente se describen a continuación:
+Tipo Monitor de grado médico
+Monitor Grado Médico Mínimo 30 Pulgadas 16:9.
+Resolución 8MP
+Resolución aproximada 3840 × 2160 o superior
+Ángulo de visión mínimo: 175ºx175º
+Mínimo 60 Hz (4K UHD).
+Certificación CE con cumplimiento de Directivas europeas MDD de dispositivos médicos
+Calibración DICOM
+Calibración de color específica para Anatomía Patológica
+Tecnología IPS.
+Orientación horizontal y vertical.
+Brillo mínimo: 350 cd/m².
+Ratio contraste: 1300:1
+DCI-P3 98% (CIE1976) o equivalente/superior.
+Debe disponer de puertos: DisplayPort 1.2 y USB 2.0 o superior.
+Sensor de luminancia automática.
+Sistema antirreflejo y Protector de superficie
+Incluir todos los cables necesarios para el funcionamiento simultáneo con dos
+monitores
+El precio del componente ofertado incluirá el suministro (según las condiciones descritas en el apartado
+correspondiente del presente pliego, que incluye el ensamblaje de cualquier tipo de elemento individual), el montaje
+(según las condiciones descritas en el apartado correspondiente del presente pliego) y el mantenimiento, durante los
+años de garantía ofertados.
+Página 5/6
+-----------------------------------------------------English Text-----------------------------------------------------
+COMPONENT 2 Diagnostic Monitor The minimum technical specifications required for this Component are described below: Type Medical-grade monitor Minimum Medical-grade Monitor 30 Inches 16:9. Resolution 8MP Approximate resolution 3840 × 2160 or higher Minimum viewing angle: 175ºx175º Minimum 60 Hz (4K UHD). CE certification compliant with European Medical Device Directives DICOM Calibration Specific color calibration for Pathological Anatomy IPS technology. Horizontal and vertical orientation. Minimum brightness: 350 cd/m². Contrast ratio: 1300:1 DCI-P3 98% (CIE1976) or equivalent/superior. Must have ports: DisplayPort 1.2 and USB 2.0 or higher. Automatic luminance sensor. Anti-reflective system and Surface protector. Include all necessary cables for simultaneous operation with two monitors The price of the offered component will include supply (according to the conditions described in the corresponding section of this specification, which includes the assembly of any type of individual element), installation (according to the conditions described in the corresponding section of this specification), and maintenance during the offered warranty years. Page 5/6
+
+----------------------------------------------------- Korean Text-----------------------------------------------------
+구성 요소 2 진단 모니터는 다음과 같은 최소 기술 사양을 갖추어야 합니다: 의료 등급 모니터 의료 등급 모니터 최소 30인치 16:9. 해상도 8MP 대략적인 해상도 3840 × 2160 또는 그 이상 최소 시야각: 175ºx175º 최소 60 Hz (4K UHD). 유럽 지침 MDD를 준수하는 CE 인증 DICOM 교정 병리학에 특화된 색상 교정 IPS 기술. 가로 및 세로 방향. 최소 밝기: 350 cd/m². 대비 비율: 1300:1 DCI-P3 98% (CIE1976) 또는 동등한/상위 기술. DisplayPort 1.2 및 USB 2.0 또는 그 이상의 포트를 갖추어야 합니다. 자동 조명 센서. 반사 방지 시스템 및 표면 보호막 두 개의 모니터를 동시에 작동하기 위해 필요한 모든 케이블 포함 구성 요소의 가격에는 공급 (본 제안서의 해당 섹션에 설명된 조건에 따라 개별 요소의 조립 포함), 설치 (본 제안서의 해당 섹션에 설명된 조건에 따라) 및 보증 기간 동안의 유지 보수가 포함됩니다. 5/6 페이지
+
+--------------------------------------------------- Summarization ---------------------------------------------------
+
+--------------------------------------------------- Summarization ---------------------------------------------------
+
+-----------------------------------------------------  Raw Table  -----------------------------------------------------
+Table 5-1
+                     0
+          COMPONENTE 2
+Monitor de diagnóstico
+-----------------------------------------------------  Raw Table  -----------------------------------------------------
+Table 5-2
+   0                                                                                        1
+Tipo                                                                  Monitor de grado médico
+                                                Monitor Grado Médico Mínimo 30 Pulgadas 16:9.
+None                                                                           Resolución 8MP
+None                                             Resolución aproximada 3840 × 2160 o superior
+None                                                       Ángulo de visión mínimo: 175ºx175º
+None                                                                   Mínimo 60 Hz (4K UHD).
+None     Certificación CE con cumplimiento de Directivas europeas MDD de dispositivos médicos
+None                                                                        Calibración DICOM
+None                                 Calibración de color específica para Anatomía Patológica
+None                                                                          Tecnología IPS.
+None                                                       Orientación horizontal y vertical.
+None                                                                Brillo mínimo: 350 cd/m².
+None                                                                  Ratio contraste: 1300:1
+None                                             DCI-P3 98% (CIE1976) o equivalente/superior.
+None                          Debe disponer de puertos: DisplayPort 1.2 y USB 2.0 o superior.
+None                                                         Sensor de luminancia automática.
+None                                           Sistema antirreflejo y Protector de superficie
+None Incluir todos los cables necesarios para el funcionamiento simultáneo con dos\nmonitores
+\------------------------------------------------------ Page 5 End ------------------------------------------------------/
+
+/----------------------------------------------------- Page 6 Start -----------------------------------------------------\
+-----------------------------------------------------  Raw Text  -----------------------------------------------------
+COMPONENTE 3
+Monitor estándar
+Las características técnicas mínimas requeridas para este Componente se describen a continuación:
+Tipo Monitor convencional
+29 pulgadas 16:9
+Resolución mínima: Full HD
+Tecnología color antirreflejo IPS
+Orientación horizontal y vertical.
+Brillo mínimo: 300Cd/m2
+Ángulo de visión mínimo: 170ºx160º
+Tiempo de respuesta mínimo: 5ms
+Frecuencia de refresco mínima: 60Hz
+El precio del componente ofertado incluirá el suministro (según las condiciones descritas en el apartado
+correspondiente del presente pliego, que incluye el ensamblaje de cualquier tipo de elemento individual), el montaje
+(según las condiciones descritas en el apartado correspondiente del presente pliego) y el mantenimiento, durante los
+años de garantía ofertados.
+Santiago de Compostela, fecha de la firma electrónica
+El Subdirector General de Sistemas y Tecnologías de la Información
+Benigno Rosón Calvo
+La Secretaria General Técnica
+Natalia Lobato Mosquera
+Página 6/6
+-----------------------------------------------------English Text-----------------------------------------------------
+COMPONENT 3 Standard Monitor The minimum technical specifications required for this Component are described below: Type: Conventional monitor 29 inches 16:9 Minimum resolution: Full HD Anti-glare color technology IPS Horizontal and vertical orientation Minimum brightness: 300Cd/m2 Minimum viewing angle: 170ºx160º Minimum response time: 5ms Minimum refresh rate: 60Hz The price of the offered component will include the supply (according to the conditions described in the corresponding section of this document, which includes the assembly of any type of individual element), the installation (according to the conditions described in the corresponding section of this document), and the maintenance, during the offered warranty years. Santiago de Compostela, date of electronic signature The Deputy Director General of Systems and Information Technologies Benigno Rosón Calvo The Technical General Secretary Natalia Lobato Mosquera Page 6/6
+
+----------------------------------------------------- Korean Text-----------------------------------------------------
+구성 요소 3 표준 모니터는 다음과 같은 최소 기술 사양을 갖추어야 합니다: 전통적인 모니터 29인치 16:9 최소 해상도: 풀 HD 반사 방지 컬러 IPS 기술 가로 및 세로 방향으로 사용 가능 최소 밝기: 300Cd/m2 최소 시야각: 170ºx160º 최소 응답 시간: 5ms 최소 주사율: 60Hz 제안된 구성 요소의 가격에는 공급 (본 견적서의 해당 섹션에 기술된 조건에 따라 개별 요소의 조립 포함), 조립 (본 견적서의 해당 섹션에 기술된 조건에 따라) 및 보증 기간 동안의 유지 보수가 포함됩니다. 산티아고 데 콤포스텔라, 전자 서명 날짜 정보 시스템 및 기술 부차관 베니뇽 로손 칼보 기술 총무 나탈리아 로바토 모스케라 6/6 페이지
+
+--------------------------------------------------- Summarization ---------------------------------------------------
+
+--------------------------------------------------- Summarization ---------------------------------------------------
+
+-----------------------------------------------------  Raw Table  -----------------------------------------------------
+Table 6-1
+               0
+    COMPONENTE 3
+Monitor estándar
+-----------------------------------------------------  Raw Table  -----------------------------------------------------
+Table 6-2
+   0                                   1
+Tipo                Monitor convencional
+                        29 pulgadas 16:9
+None          Resolución mínima: Full HD
+None   Tecnología color antirreflejo IPS
+None  Orientación horizontal y vertical.
+None             Brillo mínimo: 300Cd/m2
+None  Ángulo de visión mínimo: 170ºx160º
+None     Tiempo de respuesta mínimo: 5ms
+None Frecuencia de refresco mínima: 60Hz
+\------------------------------------------------------ Page 6 End ------------------------------------------------------/
+
